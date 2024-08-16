@@ -1,0 +1,14 @@
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.exe
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.deps.json
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.runtimeconfig.json
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.dll
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.pdb
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.dll
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.pdb
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.genruntimeconfig.cache

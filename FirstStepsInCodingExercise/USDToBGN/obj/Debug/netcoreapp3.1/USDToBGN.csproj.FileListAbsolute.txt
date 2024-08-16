@@ -1,0 +1,14 @@
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\USDToBGN\bin\Debug\netcoreapp3.1\USDToBGN.exe
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\USDToBGN\bin\Debug\netcoreapp3.1\USDToBGN.deps.json
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\USDToBGN\bin\Debug\netcoreapp3.1\USDToBGN.runtimeconfig.json
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\USDToBGN\bin\Debug\netcoreapp3.1\USDToBGN.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\USDToBGN\bin\Debug\netcoreapp3.1\USDToBGN.dll
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\USDToBGN\bin\Debug\netcoreapp3.1\USDToBGN.pdb
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\USDToBGN\obj\Debug\netcoreapp3.1\USDToBGN.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\USDToBGN\obj\Debug\netcoreapp3.1\USDToBGN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\USDToBGN\obj\Debug\netcoreapp3.1\USDToBGN.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\USDToBGN\obj\Debug\netcoreapp3.1\USDToBGN.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\USDToBGN\obj\Debug\netcoreapp3.1\USDToBGN.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\USDToBGN\obj\Debug\netcoreapp3.1\USDToBGN.dll
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\USDToBGN\obj\Debug\netcoreapp3.1\USDToBGN.pdb
+C:\Users\LUSI\source\repos\FirstStepsInCodingExercise\USDToBGN\obj\Debug\netcoreapp3.1\USDToBGN.genruntimeconfig.cache
