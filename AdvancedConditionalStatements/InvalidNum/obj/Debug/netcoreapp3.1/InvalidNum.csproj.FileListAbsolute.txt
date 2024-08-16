@@ -1,0 +1,13 @@
+C:\Users\LUSI\source\repos\DayOfWeek\InvalidNum\bin\Debug\netcoreapp3.1\InvalidNum.exe
+C:\Users\LUSI\source\repos\DayOfWeek\InvalidNum\bin\Debug\netcoreapp3.1\InvalidNum.deps.json
+C:\Users\LUSI\source\repos\DayOfWeek\InvalidNum\bin\Debug\netcoreapp3.1\InvalidNum.runtimeconfig.json
+C:\Users\LUSI\source\repos\DayOfWeek\InvalidNum\bin\Debug\netcoreapp3.1\InvalidNum.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\DayOfWeek\InvalidNum\bin\Debug\netcoreapp3.1\InvalidNum.dll
+C:\Users\LUSI\source\repos\DayOfWeek\InvalidNum\bin\Debug\netcoreapp3.1\InvalidNum.pdb
+C:\Users\LUSI\source\repos\DayOfWeek\InvalidNum\obj\Debug\netcoreapp3.1\InvalidNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\DayOfWeek\InvalidNum\obj\Debug\netcoreapp3.1\InvalidNum.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\DayOfWeek\InvalidNum\obj\Debug\netcoreapp3.1\InvalidNum.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\DayOfWeek\InvalidNum\obj\Debug\netcoreapp3.1\InvalidNum.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\DayOfWeek\InvalidNum\obj\Debug\netcoreapp3.1\InvalidNum.dll
+C:\Users\LUSI\source\repos\DayOfWeek\InvalidNum\obj\Debug\netcoreapp3.1\InvalidNum.pdb
+C:\Users\LUSI\source\repos\DayOfWeek\InvalidNum\obj\Debug\netcoreapp3.1\InvalidNum.genruntimeconfig.cache

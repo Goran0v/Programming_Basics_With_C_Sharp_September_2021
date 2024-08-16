@@ -1,0 +1,14 @@
+C:\Users\LUSI\source\repos\DayOfWeek\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.exe
+C:\Users\LUSI\source\repos\DayOfWeek\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.deps.json
+C:\Users\LUSI\source\repos\DayOfWeek\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.runtimeconfig.json
+C:\Users\LUSI\source\repos\DayOfWeek\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\DayOfWeek\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.dll
+C:\Users\LUSI\source\repos\DayOfWeek\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.pdb
+C:\Users\LUSI\source\repos\DayOfWeek\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\DayOfWeek\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\DayOfWeek\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\DayOfWeek\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\DayOfWeek\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\DayOfWeek\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.dll
+C:\Users\LUSI\source\repos\DayOfWeek\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.pdb
+C:\Users\LUSI\source\repos\DayOfWeek\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.genruntimeconfig.cache
