@@ -1,0 +1,14 @@
+C:\Users\LUSI\source\repos\ConditionalStatements\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.exe
+C:\Users\LUSI\source\repos\ConditionalStatements\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.deps.json
+C:\Users\LUSI\source\repos\ConditionalStatements\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.runtimeconfig.json
+C:\Users\LUSI\source\repos\ConditionalStatements\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\ConditionalStatements\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.dll
+C:\Users\LUSI\source\repos\ConditionalStatements\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.pdb
+C:\Users\LUSI\source\repos\ConditionalStatements\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\ConditionalStatements\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\ConditionalStatements\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\ConditionalStatements\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\ConditionalStatements\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\ConditionalStatements\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.dll
+C:\Users\LUSI\source\repos\ConditionalStatements\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.pdb
+C:\Users\LUSI\source\repos\ConditionalStatements\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.genruntimeconfig.cache

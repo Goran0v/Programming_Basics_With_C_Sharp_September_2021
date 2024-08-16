@@ -1,0 +1,14 @@
+C:\Users\LUSI\source\repos\ConditionalStatements\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.exe
+C:\Users\LUSI\source\repos\ConditionalStatements\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.deps.json
+C:\Users\LUSI\source\repos\ConditionalStatements\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.runtimeconfig.json
+C:\Users\LUSI\source\repos\ConditionalStatements\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\ConditionalStatements\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.dll
+C:\Users\LUSI\source\repos\ConditionalStatements\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.pdb
+C:\Users\LUSI\source\repos\ConditionalStatements\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\ConditionalStatements\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\ConditionalStatements\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\ConditionalStatements\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\ConditionalStatements\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\ConditionalStatements\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.dll
+C:\Users\LUSI\source\repos\ConditionalStatements\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.pdb
+C:\Users\LUSI\source\repos\ConditionalStatements\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.genruntimeconfig.cache
