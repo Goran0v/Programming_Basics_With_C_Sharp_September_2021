@@ -1,0 +1,14 @@
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\Shopping\obj\Debug\netcoreapp3.1\Shopping.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\Shopping\obj\Debug\netcoreapp3.1\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\Shopping\obj\Debug\netcoreapp3.1\Shopping.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\Shopping\obj\Debug\netcoreapp3.1\Shopping.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\Shopping\obj\Debug\netcoreapp3.1\Shopping.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\Shopping\bin\Debug\netcoreapp3.1\Shopping.exe
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\Shopping\bin\Debug\netcoreapp3.1\Shopping.deps.json
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\Shopping\bin\Debug\netcoreapp3.1\Shopping.runtimeconfig.json
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\Shopping\bin\Debug\netcoreapp3.1\Shopping.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\Shopping\bin\Debug\netcoreapp3.1\Shopping.dll
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\Shopping\bin\Debug\netcoreapp3.1\Shopping.pdb
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\Shopping\obj\Debug\netcoreapp3.1\Shopping.dll
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\Shopping\obj\Debug\netcoreapp3.1\Shopping.pdb
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\Shopping\obj\Debug\netcoreapp3.1\Shopping.genruntimeconfig.cache

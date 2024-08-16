@@ -1,0 +1,14 @@
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\SwimmingWorldRecord\bin\Debug\netcoreapp3.1\SwimmingWorldRecord.exe
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\SwimmingWorldRecord\bin\Debug\netcoreapp3.1\SwimmingWorldRecord.deps.json
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\SwimmingWorldRecord\bin\Debug\netcoreapp3.1\SwimmingWorldRecord.runtimeconfig.json
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\SwimmingWorldRecord\bin\Debug\netcoreapp3.1\SwimmingWorldRecord.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\SwimmingWorldRecord\bin\Debug\netcoreapp3.1\SwimmingWorldRecord.dll
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\SwimmingWorldRecord\bin\Debug\netcoreapp3.1\SwimmingWorldRecord.pdb
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\SwimmingWorldRecord\obj\Debug\netcoreapp3.1\SwimmingWorldRecord.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\SwimmingWorldRecord\obj\Debug\netcoreapp3.1\SwimmingWorldRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\SwimmingWorldRecord\obj\Debug\netcoreapp3.1\SwimmingWorldRecord.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\SwimmingWorldRecord\obj\Debug\netcoreapp3.1\SwimmingWorldRecord.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\SwimmingWorldRecord\obj\Debug\netcoreapp3.1\SwimmingWorldRecord.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\SwimmingWorldRecord\obj\Debug\netcoreapp3.1\SwimmingWorldRecord.dll
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\SwimmingWorldRecord\obj\Debug\netcoreapp3.1\SwimmingWorldRecord.pdb
+C:\Users\LUSI\source\repos\SwimmingWorldRecord\SwimmingWorldRecord\obj\Debug\netcoreapp3.1\SwimmingWorldRecord.genruntimeconfig.cache
