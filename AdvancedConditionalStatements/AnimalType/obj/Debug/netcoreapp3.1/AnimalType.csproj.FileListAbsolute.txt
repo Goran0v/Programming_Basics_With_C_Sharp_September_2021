@@ -1,0 +1,14 @@
+C:\Users\LUSI\source\repos\DayOfWeek\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.exe
+C:\Users\LUSI\source\repos\DayOfWeek\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.deps.json
+C:\Users\LUSI\source\repos\DayOfWeek\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.runtimeconfig.json
+C:\Users\LUSI\source\repos\DayOfWeek\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\DayOfWeek\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.dll
+C:\Users\LUSI\source\repos\DayOfWeek\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.pdb
+C:\Users\LUSI\source\repos\DayOfWeek\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\DayOfWeek\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\DayOfWeek\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\DayOfWeek\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\DayOfWeek\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\DayOfWeek\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.dll
+C:\Users\LUSI\source\repos\DayOfWeek\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.pdb
+C:\Users\LUSI\source\repos\DayOfWeek\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.genruntimeconfig.cache
