@@ -1,0 +1,14 @@
+C:\Users\LUSI\source\repos\DayOfWeek\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.exe
+C:\Users\LUSI\source\repos\DayOfWeek\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.deps.json
+C:\Users\LUSI\source\repos\DayOfWeek\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.runtimeconfig.json
+C:\Users\LUSI\source\repos\DayOfWeek\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\DayOfWeek\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.dll
+C:\Users\LUSI\source\repos\DayOfWeek\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.pdb
+C:\Users\LUSI\source\repos\DayOfWeek\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\DayOfWeek\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\DayOfWeek\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\DayOfWeek\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\DayOfWeek\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\DayOfWeek\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.dll
+C:\Users\LUSI\source\repos\DayOfWeek\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.pdb
+C:\Users\LUSI\source\repos\DayOfWeek\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.genruntimeconfig.cache
