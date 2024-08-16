@@ -1,0 +1,13 @@
+C:\Users\LUSI\source\repos\ConditionalStatements\GreaterNumberr\bin\Debug\netcoreapp3.1\GreaterNumberr.exe
+C:\Users\LUSI\source\repos\ConditionalStatements\GreaterNumberr\bin\Debug\netcoreapp3.1\GreaterNumberr.deps.json
+C:\Users\LUSI\source\repos\ConditionalStatements\GreaterNumberr\bin\Debug\netcoreapp3.1\GreaterNumberr.runtimeconfig.json
+C:\Users\LUSI\source\repos\ConditionalStatements\GreaterNumberr\bin\Debug\netcoreapp3.1\GreaterNumberr.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\ConditionalStatements\GreaterNumberr\bin\Debug\netcoreapp3.1\GreaterNumberr.dll
+C:\Users\LUSI\source\repos\ConditionalStatements\GreaterNumberr\bin\Debug\netcoreapp3.1\GreaterNumberr.pdb
+C:\Users\LUSI\source\repos\ConditionalStatements\GreaterNumberr\obj\Debug\netcoreapp3.1\GreaterNumberr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\ConditionalStatements\GreaterNumberr\obj\Debug\netcoreapp3.1\GreaterNumberr.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\ConditionalStatements\GreaterNumberr\obj\Debug\netcoreapp3.1\GreaterNumberr.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\ConditionalStatements\GreaterNumberr\obj\Debug\netcoreapp3.1\GreaterNumberr.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\ConditionalStatements\GreaterNumberr\obj\Debug\netcoreapp3.1\GreaterNumberr.dll
+C:\Users\LUSI\source\repos\ConditionalStatements\GreaterNumberr\obj\Debug\netcoreapp3.1\GreaterNumberr.pdb
+C:\Users\LUSI\source\repos\ConditionalStatements\GreaterNumberr\obj\Debug\netcoreapp3.1\GreaterNumberr.genruntimeconfig.cache
