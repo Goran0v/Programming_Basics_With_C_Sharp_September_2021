@@ -1,0 +1,13 @@
+C:\Users\LUSI\source\repos\ReadText\SequenceTwoKPlusOne\bin\Debug\netcoreapp3.1\SequenceTwoKPlusOne.exe
+C:\Users\LUSI\source\repos\ReadText\SequenceTwoKPlusOne\bin\Debug\netcoreapp3.1\SequenceTwoKPlusOne.deps.json
+C:\Users\LUSI\source\repos\ReadText\SequenceTwoKPlusOne\bin\Debug\netcoreapp3.1\SequenceTwoKPlusOne.runtimeconfig.json
+C:\Users\LUSI\source\repos\ReadText\SequenceTwoKPlusOne\bin\Debug\netcoreapp3.1\SequenceTwoKPlusOne.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\ReadText\SequenceTwoKPlusOne\bin\Debug\netcoreapp3.1\SequenceTwoKPlusOne.dll
+C:\Users\LUSI\source\repos\ReadText\SequenceTwoKPlusOne\bin\Debug\netcoreapp3.1\SequenceTwoKPlusOne.pdb
+C:\Users\LUSI\source\repos\ReadText\SequenceTwoKPlusOne\obj\Debug\netcoreapp3.1\SequenceTwoKPlusOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\ReadText\SequenceTwoKPlusOne\obj\Debug\netcoreapp3.1\SequenceTwoKPlusOne.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\ReadText\SequenceTwoKPlusOne\obj\Debug\netcoreapp3.1\SequenceTwoKPlusOne.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\ReadText\SequenceTwoKPlusOne\obj\Debug\netcoreapp3.1\SequenceTwoKPlusOne.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\ReadText\SequenceTwoKPlusOne\obj\Debug\netcoreapp3.1\SequenceTwoKPlusOne.dll
+C:\Users\LUSI\source\repos\ReadText\SequenceTwoKPlusOne\obj\Debug\netcoreapp3.1\SequenceTwoKPlusOne.pdb
+C:\Users\LUSI\source\repos\ReadText\SequenceTwoKPlusOne\obj\Debug\netcoreapp3.1\SequenceTwoKPlusOne.genruntimeconfig.cache
