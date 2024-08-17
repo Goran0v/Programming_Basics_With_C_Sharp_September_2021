@@ -1,0 +1,13 @@
+C:\Users\LUSI\source\repos\ReadText\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.exe
+C:\Users\LUSI\source\repos\ReadText\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.deps.json
+C:\Users\LUSI\source\repos\ReadText\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.runtimeconfig.json
+C:\Users\LUSI\source\repos\ReadText\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\ReadText\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.dll
+C:\Users\LUSI\source\repos\ReadText\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.pdb
+C:\Users\LUSI\source\repos\ReadText\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\ReadText\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\ReadText\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\ReadText\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\ReadText\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.dll
+C:\Users\LUSI\source\repos\ReadText\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.pdb
+C:\Users\LUSI\source\repos\ReadText\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.genruntimeconfig.cache
