@@ -1,0 +1,14 @@
+C:\Users\LUSI\source\repos\AdvancedConditionsIfElse\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.exe
+C:\Users\LUSI\source\repos\AdvancedConditionsIfElse\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.deps.json
+C:\Users\LUSI\source\repos\AdvancedConditionsIfElse\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.runtimeconfig.json
+C:\Users\LUSI\source\repos\AdvancedConditionsIfElse\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\AdvancedConditionsIfElse\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.dll
+C:\Users\LUSI\source\repos\AdvancedConditionsIfElse\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.pdb
+C:\Users\LUSI\source\repos\AdvancedConditionsIfElse\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\AdvancedConditionsIfElse\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\AdvancedConditionsIfElse\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\AdvancedConditionsIfElse\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\AdvancedConditionsIfElse\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\AdvancedConditionsIfElse\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.dll
+C:\Users\LUSI\source\repos\AdvancedConditionsIfElse\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.pdb
+C:\Users\LUSI\source\repos\AdvancedConditionsIfElse\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.genruntimeconfig.cache
