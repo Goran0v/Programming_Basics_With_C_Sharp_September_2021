@@ -1,0 +1,4 @@
+C:\Users\LUSI\source\repos\ForCycleExercise\TennisRanklist\obj\Debug\netcoreapp3.1\TennisRanklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\ForCycleExercise\TennisRanklist\obj\Debug\netcoreapp3.1\TennisRanklist.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\ForCycleExercise\TennisRanklist\obj\Debug\netcoreapp3.1\TennisRanklist.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\ForCycleExercise\TennisRanklist\obj\Debug\netcoreapp3.1\TennisRanklist.csproj.CoreCompileInputs.cache
