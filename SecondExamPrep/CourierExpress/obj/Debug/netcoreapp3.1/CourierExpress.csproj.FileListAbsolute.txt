@@ -1,0 +1,14 @@
+C:\Users\LUSI\source\repos\PreExam\CourierExpress\bin\Debug\netcoreapp3.1\CourierExpress.exe
+C:\Users\LUSI\source\repos\PreExam\CourierExpress\bin\Debug\netcoreapp3.1\CourierExpress.deps.json
+C:\Users\LUSI\source\repos\PreExam\CourierExpress\bin\Debug\netcoreapp3.1\CourierExpress.runtimeconfig.json
+C:\Users\LUSI\source\repos\PreExam\CourierExpress\bin\Debug\netcoreapp3.1\CourierExpress.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\PreExam\CourierExpress\bin\Debug\netcoreapp3.1\CourierExpress.dll
+C:\Users\LUSI\source\repos\PreExam\CourierExpress\bin\Debug\netcoreapp3.1\CourierExpress.pdb
+C:\Users\LUSI\source\repos\PreExam\CourierExpress\obj\Debug\netcoreapp3.1\CourierExpress.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\PreExam\CourierExpress\obj\Debug\netcoreapp3.1\CourierExpress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\PreExam\CourierExpress\obj\Debug\netcoreapp3.1\CourierExpress.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\PreExam\CourierExpress\obj\Debug\netcoreapp3.1\CourierExpress.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\PreExam\CourierExpress\obj\Debug\netcoreapp3.1\CourierExpress.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\PreExam\CourierExpress\obj\Debug\netcoreapp3.1\CourierExpress.dll
+C:\Users\LUSI\source\repos\PreExam\CourierExpress\obj\Debug\netcoreapp3.1\CourierExpress.pdb
+C:\Users\LUSI\source\repos\PreExam\CourierExpress\obj\Debug\netcoreapp3.1\CourierExpress.genruntimeconfig.cache
