@@ -1,0 +1,14 @@
+C:\Users\LUSI\source\repos\NestedLoops\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.exe
+C:\Users\LUSI\source\repos\NestedLoops\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.deps.json
+C:\Users\LUSI\source\repos\NestedLoops\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.runtimeconfig.json
+C:\Users\LUSI\source\repos\NestedLoops\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\NestedLoops\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.dll
+C:\Users\LUSI\source\repos\NestedLoops\SumOfTwoNumbers\bin\Debug\netcoreapp3.1\SumOfTwoNumbers.pdb
+C:\Users\LUSI\source\repos\NestedLoops\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\NestedLoops\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\NestedLoops\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\NestedLoops\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\NestedLoops\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\NestedLoops\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.dll
+C:\Users\LUSI\source\repos\NestedLoops\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.pdb
+C:\Users\LUSI\source\repos\NestedLoops\SumOfTwoNumbers\obj\Debug\netcoreapp3.1\SumOfTwoNumbers.genruntimeconfig.cache
