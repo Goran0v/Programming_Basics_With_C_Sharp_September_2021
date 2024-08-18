@@ -1,0 +1,14 @@
+C:\Users\LUSI\source\repos\NestedLoopsExercise\EqualsSumEvenOddPosition\bin\Debug\netcoreapp3.1\EqualsSumEvenOddPosition.exe
+C:\Users\LUSI\source\repos\NestedLoopsExercise\EqualsSumEvenOddPosition\bin\Debug\netcoreapp3.1\EqualsSumEvenOddPosition.deps.json
+C:\Users\LUSI\source\repos\NestedLoopsExercise\EqualsSumEvenOddPosition\bin\Debug\netcoreapp3.1\EqualsSumEvenOddPosition.runtimeconfig.json
+C:\Users\LUSI\source\repos\NestedLoopsExercise\EqualsSumEvenOddPosition\bin\Debug\netcoreapp3.1\EqualsSumEvenOddPosition.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\NestedLoopsExercise\EqualsSumEvenOddPosition\bin\Debug\netcoreapp3.1\EqualsSumEvenOddPosition.dll
+C:\Users\LUSI\source\repos\NestedLoopsExercise\EqualsSumEvenOddPosition\bin\Debug\netcoreapp3.1\EqualsSumEvenOddPosition.pdb
+C:\Users\LUSI\source\repos\NestedLoopsExercise\EqualsSumEvenOddPosition\obj\Debug\netcoreapp3.1\EqualsSumEvenOddPosition.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\NestedLoopsExercise\EqualsSumEvenOddPosition\obj\Debug\netcoreapp3.1\EqualsSumEvenOddPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\NestedLoopsExercise\EqualsSumEvenOddPosition\obj\Debug\netcoreapp3.1\EqualsSumEvenOddPosition.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\NestedLoopsExercise\EqualsSumEvenOddPosition\obj\Debug\netcoreapp3.1\EqualsSumEvenOddPosition.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\NestedLoopsExercise\EqualsSumEvenOddPosition\obj\Debug\netcoreapp3.1\EqualsSumEvenOddPosition.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\NestedLoopsExercise\EqualsSumEvenOddPosition\obj\Debug\netcoreapp3.1\EqualsSumEvenOddPosition.dll
+C:\Users\LUSI\source\repos\NestedLoopsExercise\EqualsSumEvenOddPosition\obj\Debug\netcoreapp3.1\EqualsSumEvenOddPosition.pdb
+C:\Users\LUSI\source\repos\NestedLoopsExercise\EqualsSumEvenOddPosition\obj\Debug\netcoreapp3.1\EqualsSumEvenOddPosition.genruntimeconfig.cache

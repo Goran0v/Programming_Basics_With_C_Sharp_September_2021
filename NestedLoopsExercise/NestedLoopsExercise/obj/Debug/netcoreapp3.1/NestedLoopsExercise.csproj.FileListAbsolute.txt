@@ -1,0 +1,14 @@
+C:\Users\LUSI\source\repos\NestedLoopsExercise\NestedLoopsExercise\bin\Debug\netcoreapp3.1\NestedLoopsExercise.exe
+C:\Users\LUSI\source\repos\NestedLoopsExercise\NestedLoopsExercise\bin\Debug\netcoreapp3.1\NestedLoopsExercise.deps.json
+C:\Users\LUSI\source\repos\NestedLoopsExercise\NestedLoopsExercise\bin\Debug\netcoreapp3.1\NestedLoopsExercise.runtimeconfig.json
+C:\Users\LUSI\source\repos\NestedLoopsExercise\NestedLoopsExercise\bin\Debug\netcoreapp3.1\NestedLoopsExercise.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\NestedLoopsExercise\NestedLoopsExercise\bin\Debug\netcoreapp3.1\NestedLoopsExercise.dll
+C:\Users\LUSI\source\repos\NestedLoopsExercise\NestedLoopsExercise\bin\Debug\netcoreapp3.1\NestedLoopsExercise.pdb
+C:\Users\LUSI\source\repos\NestedLoopsExercise\NestedLoopsExercise\obj\Debug\netcoreapp3.1\NestedLoopsExercise.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\NestedLoopsExercise\NestedLoopsExercise\obj\Debug\netcoreapp3.1\NestedLoopsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\NestedLoopsExercise\NestedLoopsExercise\obj\Debug\netcoreapp3.1\NestedLoopsExercise.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\NestedLoopsExercise\NestedLoopsExercise\obj\Debug\netcoreapp3.1\NestedLoopsExercise.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\NestedLoopsExercise\NestedLoopsExercise\obj\Debug\netcoreapp3.1\NestedLoopsExercise.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\NestedLoopsExercise\NestedLoopsExercise\obj\Debug\netcoreapp3.1\NestedLoopsExercise.dll
+C:\Users\LUSI\source\repos\NestedLoopsExercise\NestedLoopsExercise\obj\Debug\netcoreapp3.1\NestedLoopsExercise.pdb
+C:\Users\LUSI\source\repos\NestedLoopsExercise\NestedLoopsExercise\obj\Debug\netcoreapp3.1\NestedLoopsExercise.genruntimeconfig.cache
