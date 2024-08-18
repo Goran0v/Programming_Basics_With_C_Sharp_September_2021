@@ -1,0 +1,13 @@
+C:\Users\LUSI\source\repos\PreExam\PinCode\bin\Debug\netcoreapp3.1\PinCode.exe
+C:\Users\LUSI\source\repos\PreExam\PinCode\bin\Debug\netcoreapp3.1\PinCode.deps.json
+C:\Users\LUSI\source\repos\PreExam\PinCode\bin\Debug\netcoreapp3.1\PinCode.runtimeconfig.json
+C:\Users\LUSI\source\repos\PreExam\PinCode\bin\Debug\netcoreapp3.1\PinCode.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\PreExam\PinCode\bin\Debug\netcoreapp3.1\PinCode.dll
+C:\Users\LUSI\source\repos\PreExam\PinCode\bin\Debug\netcoreapp3.1\PinCode.pdb
+C:\Users\LUSI\source\repos\PreExam\PinCode\obj\Debug\netcoreapp3.1\PinCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\PreExam\PinCode\obj\Debug\netcoreapp3.1\PinCode.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\PreExam\PinCode\obj\Debug\netcoreapp3.1\PinCode.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\PreExam\PinCode\obj\Debug\netcoreapp3.1\PinCode.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\PreExam\PinCode\obj\Debug\netcoreapp3.1\PinCode.dll
+C:\Users\LUSI\source\repos\PreExam\PinCode\obj\Debug\netcoreapp3.1\PinCode.pdb
+C:\Users\LUSI\source\repos\PreExam\PinCode\obj\Debug\netcoreapp3.1\PinCode.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\LUSI\source\repos\PreExam\PreExam\bin\Debug\netcoreapp3.1\PreExam.exe
+C:\Users\LUSI\source\repos\PreExam\PreExam\bin\Debug\netcoreapp3.1\PreExam.deps.json
+C:\Users\LUSI\source\repos\PreExam\PreExam\bin\Debug\netcoreapp3.1\PreExam.runtimeconfig.json
+C:\Users\LUSI\source\repos\PreExam\PreExam\bin\Debug\netcoreapp3.1\PreExam.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\PreExam\PreExam\bin\Debug\netcoreapp3.1\PreExam.dll
+C:\Users\LUSI\source\repos\PreExam\PreExam\bin\Debug\netcoreapp3.1\PreExam.pdb
+C:\Users\LUSI\source\repos\PreExam\PreExam\obj\Debug\netcoreapp3.1\PreExam.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\PreExam\PreExam\obj\Debug\netcoreapp3.1\PreExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\PreExam\PreExam\obj\Debug\netcoreapp3.1\PreExam.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\PreExam\PreExam\obj\Debug\netcoreapp3.1\PreExam.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\PreExam\PreExam\obj\Debug\netcoreapp3.1\PreExam.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\PreExam\PreExam\obj\Debug\netcoreapp3.1\PreExam.dll
+C:\Users\LUSI\source\repos\PreExam\PreExam\obj\Debug\netcoreapp3.1\PreExam.pdb
+C:\Users\LUSI\source\repos\PreExam\PreExam\obj\Debug\netcoreapp3.1\PreExam.genruntimeconfig.cache
