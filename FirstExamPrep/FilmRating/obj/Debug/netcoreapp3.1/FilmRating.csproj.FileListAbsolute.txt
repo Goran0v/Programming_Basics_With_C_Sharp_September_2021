@@ -1,0 +1,14 @@
+C:\Users\LUSI\source\repos\ExamPreparation\FilmRating\bin\Debug\netcoreapp3.1\FilmRating.exe
+C:\Users\LUSI\source\repos\ExamPreparation\FilmRating\bin\Debug\netcoreapp3.1\FilmRating.deps.json
+C:\Users\LUSI\source\repos\ExamPreparation\FilmRating\bin\Debug\netcoreapp3.1\FilmRating.runtimeconfig.json
+C:\Users\LUSI\source\repos\ExamPreparation\FilmRating\bin\Debug\netcoreapp3.1\FilmRating.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\ExamPreparation\FilmRating\bin\Debug\netcoreapp3.1\FilmRating.dll
+C:\Users\LUSI\source\repos\ExamPreparation\FilmRating\bin\Debug\netcoreapp3.1\FilmRating.pdb
+C:\Users\LUSI\source\repos\ExamPreparation\FilmRating\obj\Debug\netcoreapp3.1\FilmRating.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\ExamPreparation\FilmRating\obj\Debug\netcoreapp3.1\FilmRating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\ExamPreparation\FilmRating\obj\Debug\netcoreapp3.1\FilmRating.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\ExamPreparation\FilmRating\obj\Debug\netcoreapp3.1\FilmRating.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\ExamPreparation\FilmRating\obj\Debug\netcoreapp3.1\FilmRating.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\ExamPreparation\FilmRating\obj\Debug\netcoreapp3.1\FilmRating.dll
+C:\Users\LUSI\source\repos\ExamPreparation\FilmRating\obj\Debug\netcoreapp3.1\FilmRating.pdb
+C:\Users\LUSI\source\repos\ExamPreparation\FilmRating\obj\Debug\netcoreapp3.1\FilmRating.genruntimeconfig.cache

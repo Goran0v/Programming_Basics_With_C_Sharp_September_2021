@@ -1,0 +1,14 @@
+C:\Users\LUSI\source\repos\ExamPreparation\FamilyHoliday\bin\Debug\netcoreapp3.1\FamilyHoliday.exe
+C:\Users\LUSI\source\repos\ExamPreparation\FamilyHoliday\bin\Debug\netcoreapp3.1\FamilyHoliday.deps.json
+C:\Users\LUSI\source\repos\ExamPreparation\FamilyHoliday\bin\Debug\netcoreapp3.1\FamilyHoliday.runtimeconfig.json
+C:\Users\LUSI\source\repos\ExamPreparation\FamilyHoliday\bin\Debug\netcoreapp3.1\FamilyHoliday.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\ExamPreparation\FamilyHoliday\bin\Debug\netcoreapp3.1\FamilyHoliday.dll
+C:\Users\LUSI\source\repos\ExamPreparation\FamilyHoliday\bin\Debug\netcoreapp3.1\FamilyHoliday.pdb
+C:\Users\LUSI\source\repos\ExamPreparation\FamilyHoliday\obj\Debug\netcoreapp3.1\FamilyHoliday.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\ExamPreparation\FamilyHoliday\obj\Debug\netcoreapp3.1\FamilyHoliday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\ExamPreparation\FamilyHoliday\obj\Debug\netcoreapp3.1\FamilyHoliday.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\ExamPreparation\FamilyHoliday\obj\Debug\netcoreapp3.1\FamilyHoliday.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\ExamPreparation\FamilyHoliday\obj\Debug\netcoreapp3.1\FamilyHoliday.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\ExamPreparation\FamilyHoliday\obj\Debug\netcoreapp3.1\FamilyHoliday.dll
+C:\Users\LUSI\source\repos\ExamPreparation\FamilyHoliday\obj\Debug\netcoreapp3.1\FamilyHoliday.pdb
+C:\Users\LUSI\source\repos\ExamPreparation\FamilyHoliday\obj\Debug\netcoreapp3.1\FamilyHoliday.genruntimeconfig.cache
