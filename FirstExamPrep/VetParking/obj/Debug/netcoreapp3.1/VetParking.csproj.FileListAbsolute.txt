@@ -1,0 +1,14 @@
+C:\Users\LUSI\source\repos\ExamPreparation\VetParking\bin\Debug\netcoreapp3.1\VetParking.exe
+C:\Users\LUSI\source\repos\ExamPreparation\VetParking\bin\Debug\netcoreapp3.1\VetParking.deps.json
+C:\Users\LUSI\source\repos\ExamPreparation\VetParking\bin\Debug\netcoreapp3.1\VetParking.runtimeconfig.json
+C:\Users\LUSI\source\repos\ExamPreparation\VetParking\bin\Debug\netcoreapp3.1\VetParking.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\ExamPreparation\VetParking\bin\Debug\netcoreapp3.1\VetParking.dll
+C:\Users\LUSI\source\repos\ExamPreparation\VetParking\bin\Debug\netcoreapp3.1\VetParking.pdb
+C:\Users\LUSI\source\repos\ExamPreparation\VetParking\obj\Debug\netcoreapp3.1\VetParking.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\ExamPreparation\VetParking\obj\Debug\netcoreapp3.1\VetParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\ExamPreparation\VetParking\obj\Debug\netcoreapp3.1\VetParking.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\ExamPreparation\VetParking\obj\Debug\netcoreapp3.1\VetParking.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\ExamPreparation\VetParking\obj\Debug\netcoreapp3.1\VetParking.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\ExamPreparation\VetParking\obj\Debug\netcoreapp3.1\VetParking.dll
+C:\Users\LUSI\source\repos\ExamPreparation\VetParking\obj\Debug\netcoreapp3.1\VetParking.pdb
+C:\Users\LUSI\source\repos\ExamPreparation\VetParking\obj\Debug\netcoreapp3.1\VetParking.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\LUSI\source\repos\ExamPreparation\RhythmicGymnastics\bin\Debug\netcoreapp3.1\RhythmicGymnastics.exe
+C:\Users\LUSI\source\repos\ExamPreparation\RhythmicGymnastics\bin\Debug\netcoreapp3.1\RhythmicGymnastics.deps.json
+C:\Users\LUSI\source\repos\ExamPreparation\RhythmicGymnastics\bin\Debug\netcoreapp3.1\RhythmicGymnastics.runtimeconfig.json
+C:\Users\LUSI\source\repos\ExamPreparation\RhythmicGymnastics\bin\Debug\netcoreapp3.1\RhythmicGymnastics.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\ExamPreparation\RhythmicGymnastics\bin\Debug\netcoreapp3.1\RhythmicGymnastics.dll
+C:\Users\LUSI\source\repos\ExamPreparation\RhythmicGymnastics\bin\Debug\netcoreapp3.1\RhythmicGymnastics.pdb
+C:\Users\LUSI\source\repos\ExamPreparation\RhythmicGymnastics\obj\Debug\netcoreapp3.1\RhythmicGymnastics.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\ExamPreparation\RhythmicGymnastics\obj\Debug\netcoreapp3.1\RhythmicGymnastics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\ExamPreparation\RhythmicGymnastics\obj\Debug\netcoreapp3.1\RhythmicGymnastics.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\ExamPreparation\RhythmicGymnastics\obj\Debug\netcoreapp3.1\RhythmicGymnastics.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\ExamPreparation\RhythmicGymnastics\obj\Debug\netcoreapp3.1\RhythmicGymnastics.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\ExamPreparation\RhythmicGymnastics\obj\Debug\netcoreapp3.1\RhythmicGymnastics.dll
+C:\Users\LUSI\source\repos\ExamPreparation\RhythmicGymnastics\obj\Debug\netcoreapp3.1\RhythmicGymnastics.pdb
+C:\Users\LUSI\source\repos\ExamPreparation\RhythmicGymnastics\obj\Debug\netcoreapp3.1\RhythmicGymnastics.genruntimeconfig.cache

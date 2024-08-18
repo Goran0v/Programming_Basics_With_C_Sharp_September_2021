@@ -1,0 +1,13 @@
+C:\Users\LUSI\source\repos\ExamPreparation\TouristShop\bin\Debug\netcoreapp3.1\TouristShop.exe
+C:\Users\LUSI\source\repos\ExamPreparation\TouristShop\bin\Debug\netcoreapp3.1\TouristShop.deps.json
+C:\Users\LUSI\source\repos\ExamPreparation\TouristShop\bin\Debug\netcoreapp3.1\TouristShop.runtimeconfig.json
+C:\Users\LUSI\source\repos\ExamPreparation\TouristShop\bin\Debug\netcoreapp3.1\TouristShop.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\ExamPreparation\TouristShop\bin\Debug\netcoreapp3.1\TouristShop.dll
+C:\Users\LUSI\source\repos\ExamPreparation\TouristShop\bin\Debug\netcoreapp3.1\TouristShop.pdb
+C:\Users\LUSI\source\repos\ExamPreparation\TouristShop\obj\Debug\netcoreapp3.1\TouristShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\ExamPreparation\TouristShop\obj\Debug\netcoreapp3.1\TouristShop.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\ExamPreparation\TouristShop\obj\Debug\netcoreapp3.1\TouristShop.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\ExamPreparation\TouristShop\obj\Debug\netcoreapp3.1\TouristShop.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\ExamPreparation\TouristShop\obj\Debug\netcoreapp3.1\TouristShop.dll
+C:\Users\LUSI\source\repos\ExamPreparation\TouristShop\obj\Debug\netcoreapp3.1\TouristShop.pdb
+C:\Users\LUSI\source\repos\ExamPreparation\TouristShop\obj\Debug\netcoreapp3.1\TouristShop.genruntimeconfig.cache
