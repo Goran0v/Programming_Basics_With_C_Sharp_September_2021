@@ -1,0 +1,14 @@
+C:\Users\LUSI\source\repos\NestedLoops\Combinations\bin\Debug\netcoreapp3.1\Combinations.exe
+C:\Users\LUSI\source\repos\NestedLoops\Combinations\bin\Debug\netcoreapp3.1\Combinations.deps.json
+C:\Users\LUSI\source\repos\NestedLoops\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.json
+C:\Users\LUSI\source\repos\NestedLoops\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.dev.json
+C:\Users\LUSI\source\repos\NestedLoops\Combinations\bin\Debug\netcoreapp3.1\Combinations.dll
+C:\Users\LUSI\source\repos\NestedLoops\Combinations\bin\Debug\netcoreapp3.1\Combinations.pdb
+C:\Users\LUSI\source\repos\NestedLoops\Combinations\obj\Debug\netcoreapp3.1\Combinations.csproj.AssemblyReference.cache
+C:\Users\LUSI\source\repos\NestedLoops\Combinations\obj\Debug\netcoreapp3.1\Combinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUSI\source\repos\NestedLoops\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfoInputs.cache
+C:\Users\LUSI\source\repos\NestedLoops\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfo.cs
+C:\Users\LUSI\source\repos\NestedLoops\Combinations\obj\Debug\netcoreapp3.1\Combinations.csproj.CoreCompileInputs.cache
+C:\Users\LUSI\source\repos\NestedLoops\Combinations\obj\Debug\netcoreapp3.1\Combinations.dll
+C:\Users\LUSI\source\repos\NestedLoops\Combinations\obj\Debug\netcoreapp3.1\Combinations.pdb
+C:\Users\LUSI\source\repos\NestedLoops\Combinations\obj\Debug\netcoreapp3.1\Combinations.genruntimeconfig.cache
